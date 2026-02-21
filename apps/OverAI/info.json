@@ -2,5 +2,8 @@
     "name": "OverAI (Open Beta)",
     "description": "Мощный AI-ассистент с управлением ПК, режимами мышления и постоянной памятью",
     "version": "0.9.0",
-    "author": "Toporik (labyv2004)"
+    "author": "Toporik (labyv2004)",
+    "os": "macos",
+    "category": "work",
+    "packageType": "standard"
 }
